@@ -2,9 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com//iagodizlla)
 
-![Iagodizlla GitHub stats](https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Iagodizlla GitHub stats](https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que já usei
 <div style="display; inline_block"><br>
