@@ -11,7 +11,8 @@
   </a>
   <a href="mailto:iagoschlemper@gmail.com">
     <img align="center" alt="Email" height="30" width="120" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a> 
+  <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=Iagodizlla&style=for-the-badge">
 </div>
 
 ---
