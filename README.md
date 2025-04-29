@@ -12,10 +12,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Iagodizlla">
-    <img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=holi&include_all_commits=true&count_private=true" style="margin-right: 10px;"></a>
-  <a>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
+  <a href="https://github.com/Iagodizlla"><img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=holi&include_all_commits=true" style="margin-right: 10px;"></a>
+  <a><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=20&center=true&vCenter=true&width=1000&lines=Linguagens+que+já+utilizei)](https://git.io/typing-svg)
