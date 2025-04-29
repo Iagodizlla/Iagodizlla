@@ -12,8 +12,10 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Iagodizlla"><img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=holi&include_all_commits=true&count_private=true" style="margin-right: 10px;"></a>
-  <a><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
+  <a href="https://github.com/Iagodizlla">
+    <img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=holi&include_all_commits=true&count_private=true" style="margin-right: 10px;"></a>
+  <a>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=20&center=true&vCenter=true&width=1000&lines=Linguagens+que+já+utilizei)](https://git.io/typing-svg)
@@ -21,7 +23,6 @@
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="Iago-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Iago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Iago-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Iago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,10 +38,9 @@
   <img align="center" alt="Iago-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Iago-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Iago-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img align="center" alt="Iago-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Iago-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Iago-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
-
-
+  <img align="center" alt="Iago-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
 </div>
 
 
