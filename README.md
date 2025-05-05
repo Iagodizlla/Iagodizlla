@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Iagodizlla"><img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp" style="margin-right: 10px;"></a>
+  <a href="https://github.com/Iagodizlla"><img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp;count=contribs" style="margin-right: 10px;"></a>
   <a><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
 
