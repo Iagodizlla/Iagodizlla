@@ -16,8 +16,6 @@
   <a><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=20&center=true&vCenter=true&width=1000&lines=Linguagens+que+já+utilizei)](https://git.io/typing-svg)
-
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="Iago-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Iago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -27,9 +25,6 @@
   <img align="center" alt="Iago-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iago-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=20&center=true&vCenter=true&width=1000&lines=Tecnologias+que+já+utilizei)](https://git.io/typing-svg)
-
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="Iago-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="Iago-NetBeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
