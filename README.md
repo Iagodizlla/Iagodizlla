@@ -63,7 +63,7 @@
       (Em andamento)<br>
       2024 - 2027
     </td>
-    <td align="center">
+    <td align="center"><br>
       <img src="logo.AP.svg" width="50"><br>
       <strong>Academia do Programador</strong><br>
        Full Stack<br>
