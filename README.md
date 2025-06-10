@@ -43,5 +43,31 @@
   <img align="center" alt="Iago-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
 
+----
+
+<h2 align="center">🎓 Formação</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/2942/2942919.png" width="50"><br>
+      <strong>Técnico</strong><br>
+      CEDUP - Técnico em Informática<br>
+      (Concluído)
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50"><br>
+      <strong>Sistemas</strong><br>
+      UNIPLAC - Sistemas de Informação<br>
+      (Em andamento)
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" width="50"><br>
+      <strong>Academia</strong><br>
+      Academia do Programador - Full Stack<br>
+      (Em andamento)
+    </td>
+  </tr>
+</table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
