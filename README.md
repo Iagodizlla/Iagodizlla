@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="godzilla_dormindo.png" alt="Godzilla Dormindo" width="120">
+      <img src="img/godzilla_dormindo.png" alt="Godzilla Dormindo" width="120">
     </td>
     <td>
       <a href="https://git.io/typing-svg">
@@ -69,14 +69,14 @@
       2020 - 2023
     </td>
     <td align="center">
-      <img src="logo.SI.png" width="50"><br>
+      <img src="img/logo.SI.png" width="50"><br>
       <strong>UNIPLAC</strong><br>
       Sistemas de Informação<br>
       (Em andamento)<br>
       2024 - 2027
     </td>
     <td align="center"><br>
-      <img src="logo.AP.svg" width="50"><br>
+      <img src="img/logo.AP.svg" width="50"><br>
       <strong>Academia do Programador</strong><br>
        Full Stack<br>
       (Em andamento)<br>
