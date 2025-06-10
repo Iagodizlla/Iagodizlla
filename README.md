@@ -51,21 +51,24 @@
   <tr>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2942/2942919.png" width="50"><br>
-      <strong>Técnico</strong><br>
-      CEDUP - Técnico em Informática<br>
-      (Concluído)
+      <strong>CEDUP</strong><br>
+      Técnico em Informática<br>
+      (Concluído)<br>
+      2020 - 2023
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50"><br>
-      <strong>Sistemas</strong><br>
-      UNIPLAC - Sistemas de Informação<br>
-      (Em andamento)
+      <img src="img/logo.SI.png" width="50"><br>
+      <strong>UNIPLAC</strong><br>
+      Sistemas de Informação<br>
+      (Em andamento)<br>
+      2024 - 2027
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" width="50"><br>
-      <strong>Academia</strong><br>
-      Academia do Programador - Full Stack<br>
-      (Em andamento)
+      <img src="img/logo.AP.svg" width="50"><br>
+      <strong>Academia do Programador</strong><br>
+       Full Stack<br>
+      (Em andamento)<br>
+      2025 - 2025
     </td>
   </tr>
 </table>
