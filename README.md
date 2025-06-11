@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
 <p align="center">
-  <img src="img/godzilla_dormindo.png" alt="Godzilla Dormindo" width="120">
+  <img src="img/logo_iagodizlla.png" alt="Iagodizlla Logo" width="120">
   <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=700&lines=Olá!+Meu+nome+é+Iago+Schlemper+(Iagodizlla);+Seja+bem-vindo!" alt="Typing SVG">
 </p>
 
@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/iago-schlemper/"><img align="center" alt="LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:iagoschlemper@gmail.com"><img align="center" alt="Email" height="30" width="120" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=Iagodizlla&style=for-the-badge">
+  <img src="img/godzilla_dormindo.png" alt="Godzilla Dormindo" width="60">
 </div>
 
 ---
