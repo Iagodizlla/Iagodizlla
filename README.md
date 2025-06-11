@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
 <p align="center">
-  <img src="img/logo_iagodizlla.png" alt="Iagodizlla Logo" width="120">
   <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=700&lines=Olá!+Meu+nome+é+Iago+Schlemper+(Iagodizlla);+Seja+bem-vindo!" alt="Typing SVG">
 </p>
 
