@@ -1,18 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="img/godzilla_dormindo.png" alt="Godzilla Dormindo" width="120">
-    </td>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=700&lines=Olá!+Meu+nome+é+Iago+Schlemper+(Iagodizlla);+Seja+bem-vindo!" alt="Typing SVG">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="img/godzilla_dormindo.png" alt="Godzilla Dormindo" width="120">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=25&center=true&vCenter=true&width=700&lines=Olá!+Meu+nome+é+Iago+Schlemper+(Iagodizlla);+Seja+bem-vindo!" alt="Typing SVG">
+</p>
 
 <div align="center" style="display: inline_block; margin-bottom: 20px;"><br>
   <a href="https://discord.com//iagodizlla"><img align="center" alt="Discord" height="30" width="120" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
