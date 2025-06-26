@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/iago-schlemper/"><img align="center" alt="LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:iagoschlemper@gmail.com"><img align="center" alt="Email" height="30" width="120" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=Iagodizlla&style=for-the-badge">
-  <a href=https://iagodizlla.github.io/Portifolio/" target="_blank"><img align="center" alt="Portfolio" height="30" width="120" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://iagodizlla.github.io/Portifolio/" target="_blank"><img align="center" alt="Portfolio" height="30" width="120" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <img src="img/godzilla_dormindo.png" alt="Godzilla Dormindo" width="60">
 </div>
 
