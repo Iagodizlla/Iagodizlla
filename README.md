@@ -45,10 +45,11 @@
   <img align="center" alt="Iago-NetBeans" height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title="NetBeans"/>
   <img align="center" alt="Iago-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Microsofot Visual Studio"/>
   <img align="center" alt="Iago-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
-  <!--Plataforma-->
+  <!-- Plataforma -->
   <img align="center" alt="Iago-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity"/>
   <img align="center" alt="Iago-Azure" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
   <img align="center" alt="Iago-Render" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" title="Render"/>
+  <img align="center" alt="DBeaver" height="30" width="35" src="https://i.imgur.com/v5xNbmq.png" title="DBeaver"/>
 </div>
 
 ----
