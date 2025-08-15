@@ -51,6 +51,7 @@
   <img align="center" alt="Iago-Render" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" title="Render"/>
   <img align="center" alt="DBeaver" height="30" width="35" src="https://i.imgur.com/v5xNbmq.png" title="DBeaver"/>
   <img align="center" alt="Iago-Railway" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/railway.svg" title="Railway"/>
+  <img align="center" alt="Iago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
 </div>
 
 ----
