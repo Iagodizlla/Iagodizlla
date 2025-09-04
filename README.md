@@ -55,6 +55,7 @@
   <img align="center" alt="Iago-Railway" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/railway.svg" title="Railway"/>
   <img align="center" alt="Iago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
   <img align="center" alt="Iago-NewRelic" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/newrelic.svg" title="New Relic"/>
+  <img align="center" alt="SwaggerUI" height="30" width="25" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" title="Swagger UI"/>
 </div>
 
 ----
