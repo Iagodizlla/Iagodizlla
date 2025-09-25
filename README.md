@@ -39,7 +39,7 @@
   <!--Frame Work-->
   <img align="center" alt="Iago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" >
   <img align="center" alt="Iago-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="Dot Net" >
-  <img align="center" alt="Microsoft SQL Server" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" />
+  <img align="center" alt="Iago-Microsoft SQL Server" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" />
   <img align="center" alt="Iago-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
 </div>
 <div align="center" style="display: inline_block; margin-top: 20px;">
@@ -52,11 +52,11 @@
   <img align="center" alt="Iago-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity"/>
   <img align="center" alt="Iago-Azure" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
   <img align="center" alt="Iago-Render" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" title="Render"/>
-  <img align="center" alt="DBeaver" height="30" width="35" src="https://i.imgur.com/v5xNbmq.png" title="DBeaver"/>
+  <img align="center" alt="Iago-DBeaver" height="30" width="35" src="https://i.imgur.com/v5xNbmq.png" title="DBeaver"/>
   <img align="center" alt="Iago-Railway" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/railway.svg" title="Railway"/>
   <img align="center" alt="Iago-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
   <img align="center" alt="Iago-NewRelic" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/newrelic.svg" title="New Relic"/>
-  <img align="center" alt="SwaggerUI" height="30" width="25" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" title="Swagger UI"/>
+  <img align="center" alt="Iago-SwaggerUI" height="30" width="25" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" title="Swagger UI"/>
   <img align="center" alt="Iago-Postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman" title="Postman"/>
 </div>
 
