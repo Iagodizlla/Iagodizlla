@@ -36,6 +36,7 @@
   <img align="center" alt="Iago-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"title="MySql"/>
   <img align="center" alt="Iago-SQL" height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="SQL"/>
   <img align="center" alt="Iago-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis"/>
   <!--Frame Work-->
   <img align="center" alt="Iago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" >
   <img align="center" alt="Iago-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="Dot Net" >
