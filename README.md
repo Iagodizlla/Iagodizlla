@@ -50,6 +50,9 @@
   <img align="center" alt="Iago-NetBeans" height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title="NetBeans"/>
   <img align="center" alt="Iago-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Microsofot Visual Studio"/>
   <img align="center" alt="Iago-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
+  <!--Teste-->
+  <img align="center" alt="Iago-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium"/>
+  <img align="center" alt="Iago-Mock" height="30" width="30" src="https://avatars.githubusercontent.com/u/915046?s=200&v=4" title="Mock"/>
 </div>
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <!-- Plataforma -->
