@@ -32,8 +32,6 @@
   <img align="center" alt="Iago-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
   <img align="center" alt="Iago-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img align="center" alt="Iago-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-  <img align="center" alt="Iago-Prettier" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prettier.svg" title="Prettier"/>
-  <img align="center" alt="Iago-ESLint" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/eslint.svg" title="ESLint"/>
   <!--Banco de Dados-->
   <img align="center" alt="Iago-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"title="MySql"/>
   <img align="center" alt="Iago-SQL" height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="SQL"/>
@@ -46,7 +44,10 @@
   <img align="center" alt="Iago-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="Dot Net" >
   <img align="center" alt="Iago-Microsoft SQL Server" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" />
   <img align="center" alt="Iago-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
+  <img align="center" alt="Iago-RxJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" title="RxJS"/>
   <img align="center" alt="Iago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img align="center" alt="Iago-Prettier" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prettier.svg" title="Prettier"/>
+  <img align="center" alt="Iago-ESLint" height="30" width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/eslint.svg" title="ESLint"/>
   <!--IDE-->
   <img align="center" alt="Iago-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ"/>
   <img align="center" alt="Iago-NetBeans" height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title="NetBeans"/>
