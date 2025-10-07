@@ -40,8 +40,9 @@
 </div>
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <!--Frame Work-->
+  <img align="center" alt="Iago-.Net" height="28" width="30" src="https://skillicons.dev/icons?i=dotnet" title=".NET" >
   <img align="center" alt="Iago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" >
-  <img align="center" alt="Iago-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="Dot Net" >
+  <img align="center" alt="Iago-MVC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="ASP.NET MVC" >
   <img align="center" alt="Iago-Microsoft SQL Server" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" />
   <img align="center" alt="Iago-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
   <img align="center" alt="Iago-RxJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" title="RxJS"/>
@@ -55,7 +56,7 @@
   <img align="center" alt="Iago-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
   <!--Teste-->
   <img align="center" alt="Iago-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium"/>
-  <img align="center" alt="Iago-Mock" height="30" width="30" src="https://avatars.githubusercontent.com/u/915046?s=200&v=4" title="Mock"/>
+  <img align="center" alt="Iago-Mock" height="30" width="30" src="https://cdn.simpleicons.org/moq?viewbox=auto" title="Mock"/>
 </div>
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <!-- Plataforma -->
@@ -68,6 +69,12 @@
   <img align="center" alt="Iago-NewRelic" height="25" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/newrelic.svg" title="New Relic"/>
   <img align="center" alt="Iago-SwaggerUI" height="30" width="25" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" title="Swagger UI"/>
   <img align="center" alt="Iago-Postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img align="center" alt="Iago-JSON Web" height="30" width="40" src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto" title="JSON Web Tokens"/>
+  <img align="center" alt="Iago-AutoMapper" height="28" width="28" src="https://avatars.githubusercontent.com/u/890883?s=256" title="AutoMapper"/>
+  <img align="center" alt="Iago-NuGet" height="28" width="30" src="https://cdn.simpleicons.org/nuget?viewbox=auto" title="NuGet"/>
+  <img align="center" alt="iago-npm" height="28" width="30" src="https://cdn.simpleicons.org/npm?viewbox=auto" title="npm"/>
+  <img align="center" alt="iago-GitHub Actions" height="28" width="30" src="https://cdn.simpleicons.org/githubactions?viewbox=auto" title="GitHub Actions"/>
+  <img align="center" alt="iago-PowerShell" height="28" width="30" src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell"/>
 </div>
 
 ----
