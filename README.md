@@ -101,7 +101,7 @@
       <img src="img/logo.AP.svg" width="50"><br>
       <strong>Academia do Programador</strong><br>
        Full Stack<br>
-      (Em andamento)<br>
+      (Concluído)<br>
       2025 - 2025
     </td>
   </tr>
