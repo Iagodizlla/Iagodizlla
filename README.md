@@ -42,6 +42,7 @@
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <!--Frame Work-->
   <img align="center" alt="Iago-.Net" height="28" width="30" src="https://skillicons.dev/icons?i=dotnet" title=".NET" >
+  <img align="center" alt="Iago-FastAPI" height="28" width="30" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" >
   <img align="center" alt="Iago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" >
   <img align="center" alt="Iago-MVC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="ASP.NET MVC" >
   <img align="center" alt="Iago-Microsoft SQL Server" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" />
