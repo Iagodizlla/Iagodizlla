@@ -16,8 +16,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Iagodizlla"><img src="https://github-readme-stats.vercel.app/api?username=Iagodizlla&theme=holi&count_private=true&hide=stars" style="margin-right: 10px;"></a>
-  <a><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagodizlla&layout=compact&langs_count=7&theme=holi"></a>
+  <a href="https://github.com/Iagodizlla"><img height="170" src="./profile/stats.svg" alt="GitHub Stats"></a>
+  <img height="170" src="./profile/top-langs.svg" alt="Top Linguagens">
 </div><br>
 
 <div align="center" style="display: inline_block; margin-top: 20px;">
